@@ -1,6 +1,7 @@
 <template>
     <div class="flex flex-col p-8 ">
-        <div class="item-center  justify-center"> <input type="text" class="rounded border-2 border-gray-200 w-full"
+        <div class="item-center  justify-center"> 
+            <input type="text" class="rounded border-2 border-gray-200 w-full"
                 placeholder="Search for Meals" /></div>
     </div>
     <div class="flex gap-3 justify-center mt-2">
